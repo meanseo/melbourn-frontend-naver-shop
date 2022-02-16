@@ -15,4 +15,4 @@ const Bmi = () => {
     </form>
     </>
 }
-export default Bmi;
+export default Bmi

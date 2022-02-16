@@ -15,4 +15,4 @@ const Grade =()=>{
     </div>
     </>
 }
-export default Grade;
+export default Grade

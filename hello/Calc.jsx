@@ -8,9 +8,9 @@ const Calc =()=>{
     <label><b>연산 기호</b></label>
     <input/><br/>
     <label><b>숫자 2</b></label>
-    <input/>
+    <input/><br/>
     <button>execute</button>
     </div>
     </>
 }
-export default Calc;
+export default Calc
